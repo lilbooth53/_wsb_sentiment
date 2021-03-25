@@ -135,8 +135,5 @@ class run:
         df_1 = self.reddit_api(df_1)
         df_1 = self.sentiment(df_1)
         print(df_1)
-        df_1.to_excel('first.xlsx',)
+       # df_1.to_excel('first.xlsx',)
 
-
-r = run()
-r.full_query()
