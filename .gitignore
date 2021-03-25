@@ -1,3 +1,3 @@
 # MS Office
-.xlsx
-.csv
+*.xlsx
+*.csv
